@@ -38,7 +38,7 @@ banner__title {
 .banner__button:hover {
     color: #000;
     background-color: #e6e6e6;
-    transition: all0.2s;
+    transition: all 0.2s;
 }
 .banner__fadeBottom {
     height: 7.4em;
